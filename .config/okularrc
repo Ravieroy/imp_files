@@ -1,0 +1,16 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1080=1020
+State=AAAA/wAAAAD9AAAAAAAAB2wAAAPJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1900
+
+[Recent Files]
+File1[$e]=$HOME/My-Stuffs/Group-meeting-talks/2-02-22/URG.pdf
+File2[$e]=$HOME/Downloads/Abhirup_thesis.pdf
+File3[$e]=$HOME/Problem_Set_1_backup.pdf
+Name1[$e]=URG.pdf
+Name2[$e]=Abhirup_thesis.pdf
+Name3[$e]=Problem_Set_1_backup.pdf

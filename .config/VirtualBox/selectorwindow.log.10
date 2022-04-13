@@ -1,0 +1,21 @@
+00:00:00.386941 VirtualBox GUI VM Selector Window 6.1.30 r148432 linux.amd64 (Nov 22 2021 16:03:59) release log
+00:00:00.386943 Log opened 2022-01-10T19:12:02.287448000Z
+00:00:00.386944 Build Type: release
+00:00:00.386949 OS Product: Linux
+00:00:00.386950 OS Release: 5.15.8-76051508-generic
+00:00:00.386952 OS Version: #202112141040~1639505278~20.04~0ede46a-Ubuntu SMP Fri Dec 17 19:
+00:00:00.386977 DMI Product Name: 20UJCTO1WW
+00:00:00.386983 DMI Product Version: ThinkPad T14s Gen 1
+00:00:00.386991 Firmware type: UEFI
+00:00:00.387336 Secure Boot: Disabled
+00:00:00.387396 Host RAM: 15282MB (14.9GB) total, 9413MB (9.1GB) available
+00:00:00.387402 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.387403 Process ID: 171716
+00:00:00.387405 Package type: LINUX_64BITS_UBUNTU_19_10
+00:00:00.387452 Qt version: 5.12.8
+00:00:00.417118 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.803694 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 14x34 x 939x1012
+00:00:00.837781 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 967x34 x 939x499
+00:00:00.901328 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:04:57.152997 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:04:57.153040 Log rotated - Log started 2022-01-10T19:12:02.287448000Z

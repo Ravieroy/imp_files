@@ -1,0 +1,32 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAPCAAAAGAAAB3sAAAQfAAADwgAAABgAAAd7AAAEHwAAAAAAAAAAB4AAAAPCAAAAGAAAB3sAAAQf"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIgA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlwD///8AAAABAAAAAAAAAAD8AgAAAAP7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAABjAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAM0A////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD///8AAAO6AAAECAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAAAAAABAAAAHgBhAGMAdABpAG8AbgBzAF8AdABvAG8AbABiAGEAcgIAAAAA/////wAAAAAAAAAA"
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 1,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Alex Michaelides"
+        ],
+        "key": "/run/user/1000/gvfs/mtp:host=OnePlus_SM8150-MTP__SN%3A8324BCBD_69a42514/Internal shared storage/Download/The Silent Patient.mobi",
+        "pathtoebook": "/run/user/1000/gvfs/mtp:host=OnePlus_SM8150-MTP__SN%3A8324BCBD_69a42514/Internal shared storage/Download/The Silent Patient.mobi",
+        "timestamp": "2022-04-02T17:45:33.407Z",
+        "title": "The Silent Patient"
+      }
+    ]
+  }
+}

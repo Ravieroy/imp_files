@@ -1,0 +1,8 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.007692307692307665 0.0068146618482188715 0.0068146618482188715))
+(palette "Color History")
+(font "Times New Roman,")
+(font-size 25)
+
+# end of gimp-text-tool options
