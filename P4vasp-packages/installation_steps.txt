@@ -1,0 +1,24 @@
+Steps 1: Clone the directory from here
+git clone https://github.com/orest-d/p4vasp.git
+
+Steps 2: Install the dependencies given in installation script individually 
+
+Steps 3: For some packages are not in the repository use the deb files in the folder. If it shows dependecy error, run the following 
+
+sudo apt install -f
+
+Steps 4: sudo apt install libqt5opengl5:amd64
+         sudo apt install libfltk1.3-dev
+
+Steps 5: Not compulsory, but sudo apt update && sudo apt upgrade 
+
+Step 6: cd p4vasp
+
+Step 7: ./install-local.sh
+
+If everything is fine, it should install fine and will export the path in your .bashrc. Make sure the path given is to the p4v script. It can either be in bin folder or for newer downloads it will be in the main folder itself. If the path is wrong, just edit the p4v script and add the path to p4v
+
+Step 8: If p4v doesn't have executable rights just chmod u+x p4v
+
+Step 9: run by p4v in terminal
+
