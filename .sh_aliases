@@ -38,6 +38,11 @@ alias clone='git clone'
 alias ld='ls -d */'
 alias umt='sudo umount -l'
 alias fmt='fusermount -u'
+alias diff="kitty +kitten diff"
+alias show="kitty +kitten icat"
+[[ "$TERM" == "xterm-kitty" ]] && alias ssh="kitty +kitten ssh"
+alias token="cat /home/raviroy/My-Github-Projects/token"
+
 
 # youtube-dl
 #alias yta-aac="youtube-dl --extract-audio --audio-format aac "

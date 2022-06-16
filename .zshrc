@@ -121,7 +121,7 @@ eval "$(jump shell zsh )"
 #neofetch 
 #
 #pfetch instance
-./.pfetch-0.6.0/pfetch
+##pfetch
 
 #make directory and cd into it
 mkcd(){ [ ! -z "$1" ] && mkdir -p "$1" && cd "$_"; }
